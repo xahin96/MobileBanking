@@ -1,0 +1,24 @@
+D:\C#\Remote Banking System\Remote Banking System\bin\Debug\Remote Banking System.exe.config
+D:\C#\Remote Banking System\Remote Banking System\bin\Debug\Remote Banking System.exe
+D:\C#\Remote Banking System\Remote Banking System\bin\Debug\Remote Banking System.pdb
+D:\C#\Remote Banking System\Remote Banking System\obj\Debug\Remote Banking System.csprojResolveAssemblyReference.cache
+D:\C#\Remote Banking System\Remote Banking System\obj\Debug\Remote_Banking_System.Properties.Resources.resources
+D:\C#\Remote Banking System\Remote Banking System\obj\Debug\Remote Banking System.csproj.GenerateResource.Cache
+D:\C#\Remote Banking System\Remote Banking System\obj\Debug\Remote Banking System.exe
+D:\C#\Remote Banking System\Remote Banking System\obj\Debug\Remote Banking System.pdb
+D:\C#\Remote Banking System\Remote Banking System\obj\Debug\Remote_Banking_System.Form1Welcome.resources
+D:\C#\Remote Banking System\Remote Banking System\obj\Debug\Remote_Banking_System.Form2Login.resources
+D:\C#\Remote Banking System\Remote Banking System\obj\Debug\Remote_Banking_System.Form3Menu.resources
+D:\C#\Remote Banking System\Remote Banking System\bin\Debug\MainServer.mdf
+D:\C#\Remote Banking System\Remote Banking System\bin\Debug\MainServer_log.ldf
+D:\C#\Remote Banking System\Remote Banking System\obj\Debug\Remote_Banking_System.Form2Register.resources
+D:\C#\Remote Banking System\Remote Banking System\obj\Debug\Remote_Banking_System.FormBalance.resources
+D:\C#\Remote Banking System\Remote Banking System\obj\Debug\Remote_Banking_System.Form2Deposit.resources
+D:\C#\Remote Banking System\Remote Banking System\obj\Debug\Remote_Banking_System.FormWithdraw.resources
+D:\C#\Remote Banking System\Remote Banking System\obj\Debug\Remote_Banking_System.FormTransfer.resources
+D:\C#\Remote Banking System\Remote Banking System\obj\Debug\Remote_Banking_System.FormAdmin.resources
+D:\C#\Remote Banking System\Remote Banking System\obj\Debug\Remote_Banking_System.FormViewDetails.resources
+D:\C#\Remote Banking System\Remote Banking System\obj\Debug\Remote_Banking_System.FormBlockUnblock.resources
+D:\C#\Remote Banking System\Remote Banking System\obj\Debug\Remote_Banking_System.FormLoan.resources
+D:\C#\Remote Banking System\Remote Banking System\obj\Debug\Remote_Banking_System.FormupdateNamePassword.resources
+D:\C#\Remote Banking System\Remote Banking System\obj\Debug\Remote_Banking_System.FormDelete.resources
